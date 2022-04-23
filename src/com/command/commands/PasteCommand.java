@@ -1,4 +1,6 @@
-package com.command;
+package com.command.commands;
+
+import com.command.editor.Editor;
 
 /**
  * Colar texto da área de transferência.

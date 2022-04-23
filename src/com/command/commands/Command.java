@@ -1,4 +1,6 @@
-package com.command;
+package com.command.commands;
+
+import com.command.editor.Editor;
 
 /**
  * A classe comando base define a interface comum para todos comandos concretos.

@@ -1,4 +1,6 @@
-package com.command;
+package com.command.commands;
+
+import com.command.editor.Editor;
 
 /**
  * Cortar texto para a área de transferência.

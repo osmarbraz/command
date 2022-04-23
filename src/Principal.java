@@ -1,5 +1,5 @@
 
-import com.command.Editor;
+import com.command.editor.Editor;
 
 public class Principal {
 

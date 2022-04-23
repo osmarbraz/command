@@ -1,5 +1,11 @@
-package com.command;
+package com.command.editor;
 
+import com.command.commands.Command;
+import com.command.commands.CommandHistory;
+import com.command.commands.CopyCommand;
+import com.command.commands.CutCommand;
+import com.command.commands.PasteCommand;
+import com.command.commands.UndoCommand;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
